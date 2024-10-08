@@ -1,4 +1,4 @@
-
+![logo](https://github.com/SKHEDAYTULLA/Banner.png/blob/main/LINKED%20IN%20BANNER.png)
 <h1 align="center">Hi 👋, I'm SK Hedaytulla</h1>
 <h3 align="center">A passionate Data Analyst from India, West Bengal</h3>
 
